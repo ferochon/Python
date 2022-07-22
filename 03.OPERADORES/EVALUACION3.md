@@ -11,8 +11,11 @@ Las siguientes simplificaciones realizalas considerando la gerarquía de los ope
 Simplifica la expresión 5+{{(3+1)}^2}.
 
 5+{{(3+1)}^2}
+
 5+{(4) ^2}
+
 5+{256}
+
 261
 
 
